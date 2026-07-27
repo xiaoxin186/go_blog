@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/xiaoxin186/go_blog_server.git
+[submodule "web"]
+	path = web
+	url = https://github.com/xiaoxin186/go_blog_web.git
